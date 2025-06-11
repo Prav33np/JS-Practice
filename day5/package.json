@@ -1,0 +1,28 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "main": "post.js",
+  "scripts": {
+    "start": "node 6task2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prav33np/internship.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Prav33np/internship/issues"
+  },
+  "homepage": "https://github.com/Prav33np/internship#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "multer": "^2.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
